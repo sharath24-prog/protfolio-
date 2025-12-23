@@ -23,6 +23,6 @@ This portfolio represents my interest in game development and my journey as a le
 - Sections for profile, skills, and projects
 - Easy to edit and expand
 
----
 
-## 📂 Project Structure
+
+
